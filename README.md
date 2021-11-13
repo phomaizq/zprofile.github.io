@@ -1,25 +1,5 @@
-<!DOCTYPE html>
-<html class='v2' dir='ltr' lang='vi' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
-    <head>
-        <title>Nguyễn Phước Tự Tin</title>
-<meta content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0' name='viewport'/>
-<link href='//file.leanhduc.pro.vn/image/favicon.png' rel='shortcut icon' type='image/x-icon'/>
-<meta content='https://https://img2.thuthuatphanmem.vn/uploads/2019/01/05/avatar-doi-cho-2-nguoi-1_042810500.jpg' property='og:image'/>
-<meta content='https://codeprof1.blogspot.com/' property='og:url'/>
-<meta content='website' property='og:type'/>
-<meta content='Nguyễn Phước Tự Tin' property='og:title'/>
-<meta content='Xây dựng và phát triển bởi Nguyễn Phước Tự Tin!' property='og:description'/>
-<link rel="stylesheet" href="main.css">
-<!-- Bắt đầu css-->
-<style id='page-skin-1' type='text/css'><!--
-/* Chèn CSS vào đây */
-/*----------------------------------*/
-/* Name: Template Profile           */
-/* Admin: Nguyễn Phước Tự TIn              */
-/* Gmail: nnthuc48@gmail.com  */
-/*----------------------------------*/
 
-@import "https://fonts.googleapis.com/css?family=Quicksand:400,500,700&subset=latin-ext";html,body
+ @import "https://fonts.googleapis.com/css?family=Quicksand:400,500,700&subset=latin-ext";html,body
 
 {
     cursor:url(https://file.leanhduc.pro.vn/image/mouse_f1.png),auto
