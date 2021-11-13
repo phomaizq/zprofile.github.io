@@ -1,8 +1,5 @@
 
-<html>
-
-   
-        
+<html>  
 <meta content='Nguyễn Phước Tự Tin' property='og:title'/>
 <link rel="stylesheet" href="main.css">
 <style id='page-skin-1' type='text/css'><!--
