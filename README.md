@@ -1,4 +1,3 @@
-# aaa.html
 <!DOCTYPE html>
 <html>
 
@@ -577,23 +576,7 @@ a,a:hover
 </symbol>
 </defs>
 </svg>
-<!-- load -->
-<div id='loader'>
-<div class='spinner'>
-<div class='spinner-inner'></div>
-</div>
-</div>
-<script src='//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js'></script>
-<script type='text/javascript'>
-            $(window).load(function () {
-                setTimeout(function () {
-                    $(".spinner").fadeOut("slow");
-                    setTimeout(function () {
-                        $("#loader").fadeOut("slow")
-                    }, 1000)
-                }, 1000)
-            });
-        </script>
+
 <style>
             #loader{position:fixed;top:0;left:0;right:0;bottom:0;background:linear-gradient(-20deg,#ff2846 0%,#6944ff 100%);z-index:1000}.spinner{position:fixed;width:100%;top:70%;height:30px;text-align:center;font-size:10px}.spinner,.spinner-inner{position:absolute;top:0;bottom:0;right:0;left:0;border:9px solid white;border-color:transparent white;margin:auto}.spinner{width:85px;height:85px;-webkit-animation:spin 2.2s linear 0s infinite normal;-moz-animation:spin 2.2s linear 0s infinite normal;animation:spin 2.2s linear 0s infinite normal}.spinner-inner{width:40px;height:40px;-webkit-animation:spinback 1.2s linear 0s infinite normal;-moz-animation:spinback 1.2s linear 0s infinite normal;animation:spinback 1.2s linear 0s infinite normal}@-webkit-keyframes spin{from{-webkit-transform:rotate(0)}to{-webkit-transform:rotate(360deg)}}@-moz-keyframes spin{from{-moz-transform:rotate(0)}to{-moz-transform:rotate(360deg)}}@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}@-webkit-keyframes spinback{from{-webkit-transform:rotate(0)}to{-webkit-transform:rotate(-360deg)}}@-moz-keyframes spinback{from{-moz-transform:rotate(0)}to{-moz-transform:rotate(-360deg)}}@keyframes spinback{from{transform:rotate(0)}to{transform:rotate(-360deg)}}
         </style>
@@ -804,4 +787,3 @@ if (browserok) {
     </body>
     <!-- Kết thúc phần hiển thị -->
 </html>
-
