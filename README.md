@@ -1,8 +1,8 @@
 
 <html>
 
-    <head>
-        <
+   
+        
 <meta content='Nguyễn Phước Tự Tin' property='og:title'/>
 <link rel="stylesheet" href="main.css">
 <style id='page-skin-1' type='text/css'><!--
@@ -464,7 +464,7 @@ a,a:hover
 </div>
 <div class='profile-card-inf'>
 <div class='profile-card-inf__item'>
-<div class='profile-card-inf__title' '>46.237</div>
+<div class='profile-card-inf__title'>46.237</div>
 <div class='profile-card-inf__txt'>Followers</div>
 </div>
 <div class='profile-card-inf__item'>
